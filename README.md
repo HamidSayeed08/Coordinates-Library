@@ -6,6 +6,7 @@ This project was created to apply OOP concepts in practice while building a prac
 
 
 FEATURES
+
   Point
   1. Distance between two points
   2. Midpoint calculation
@@ -26,6 +27,7 @@ FEATURES
 
 
 USAGE
+
   from coordinates import Point, Line, Vector
   # Points
   p1 = Point(2, 3)
@@ -48,6 +50,7 @@ USAGE
 
 
 TECH DETAILS
+
 Written in Python 3.
 Fully object-oriented.
 Minimal dependencies (only math).
@@ -56,5 +59,6 @@ LICENSE: This project is licensed under the MIT License – free to use, modify,
 
 
 MOTIVATION
+
 I built this project to sharpen my OOP knowledge and turn abstract math concepts into code.
 It’s simple, educational, and a foundation you can build upon for more advanced geometry or graphics projects.
